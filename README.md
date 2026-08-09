@@ -85,7 +85,7 @@ Because `V1`–`V28` are anonymized PCA components, SHAP can identify **which co
 ```
 credit-card-fraud-detection/
 ├── README.md
-└── fraud_detection.ipynb
+└── Credit_Card_Fraud_Detection.ipynb
 ```
 
 ## Author
